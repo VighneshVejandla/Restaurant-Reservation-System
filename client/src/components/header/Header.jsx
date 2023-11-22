@@ -94,11 +94,6 @@ const Header = ({ type }) => {
 
                 )}
               </div>
-
-              <div className="headerSearchItem">
-                    <input className="" type="time" />
-                </div>
-
               <div className="headerSearchItem">
                 <FontAwesomeIcon icon={faPerson} className="headerIcon" />
                 <span
